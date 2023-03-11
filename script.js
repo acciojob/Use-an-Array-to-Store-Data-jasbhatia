@@ -1,3 +1,3 @@
 
-let yourArray=[ "abc", 2, true, false, "one"];
+var yourArray=[ "abc", 2, true, false, "one"];
 console.log(yourArray);
