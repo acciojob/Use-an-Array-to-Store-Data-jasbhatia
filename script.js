@@ -1,3 +1,4 @@
 
 var yourArray=[ "abc", 2, true, false, "one"];
-console.log(yourArray);
+// console.log(yourArray);
+return yourArray;
